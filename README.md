@@ -15,7 +15,7 @@ pnpm install
 ## Development
 
 #### Run Studio locally
-
+kk
 ```
 pnpm run studio
 ```
